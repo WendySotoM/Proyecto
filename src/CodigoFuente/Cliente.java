@@ -1,23 +1,32 @@
+/*MC. Juan Jaime Funtes Uriarte
+ * Alunmnas:
+ * Maria Fernanda Mendoza Castro (200100067)
+ * Wendy Yasmin Soto Monzón (200100059)
+ * Andrea Valdenegro Valles (200100076)
+ * SC5-1
+ */
 package CodigoFuente;
 
-public class Cliente  extends Personas{
+public class Cliente extends Personas {// Inicio clase con extension
+	// Atributos y propiedades
 	public static int IDCliente;
 	public static String Observaciones;
 
-	public static int getIDCliente() {
+	// Get y Set de cada uno de los atributos y propiedades
+	public int getIDCliente() {// Inicio get
 		return IDCliente;
-	}
+	}// Fin get
 
-	public static void setIDCliente(int iDCliente) {
+	public void setIDCliente(int iDCliente) {// Inicio set
 		IDCliente = iDCliente;
-	}
+	}// Fin set
 
-	public static String getObservaciones() {
+	public String getObservaciones() {// Inicio get
 		return Observaciones;
-	}
+	}// Fin get
 
-	public static void setObservaciones(String observaciones) {
+	public void setObservaciones(String observaciones) {// Inicio set
 		Observaciones = observaciones;
-	}
-	
-}
+	}// Fin set
+
+}// Fin de la clase
