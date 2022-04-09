@@ -1,5 +1,5 @@
 /*MC. Juan Jaime Funtes Uriarte
- * Alunmnas:
+ * Alumnas:
  * Maria Fernanda Mendoza Castro (200100067)
  * Wendy Yasmin Soto Monzón (200100059)
  * Andrea Valdenegro Valles (200100076)
@@ -55,5 +55,4 @@ public class Personas {// Inicio clase
 	public void setDireccion(String direccion) {// Inicio set
 		Direccion = direccion;
 	} // Fin set
-
 }// Fin clase

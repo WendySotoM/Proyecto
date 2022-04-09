@@ -1,5 +1,5 @@
 /*MC. Juan Jaime Funtes Uriarte
- * Alunmnas:
+ * Alumnas:
  * Maria Fernanda Mendoza Castro (200100067)
  * Wendy Yasmin Soto Monzón (200100059)
  * Andrea Valdenegro Valles (200100076)
@@ -7,7 +7,6 @@
  */
 
 package CodigoFuente;
-
 public class Venta {
 	// Atributos y propiedades
 	public static int IDEmpleado;
